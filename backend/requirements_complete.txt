@@ -1,0 +1,35 @@
+# Flask and Web Framework
+Flask==2.3.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+
+# Machine Learning and Deep Learning
+tensorflow==2.13.0
+numpy==1.24.0
+scikit-learn==1.3.0
+joblib==1.3.0
+
+# Data Processing
+pandas==2.0.0
+
+# Utilities
+requests==2.31.0
+Werkzeug==2.3.0
+Pillow==10.0.0
+
+# Database (optional)
+SQLAlchemy==2.0.0
+PyMySQL==1.1.0
+pymongo==4.4.0
+
+# Testing
+pytest==7.4.0
+pytest-flask==1.3.0
+
+# Production Server (optional)
+gunicorn==21.2.0
+uwsgi==2.0.22
+
+# Monitoring (optional)
+python-json-logger==2.0.7
+Sentry-sdk==1.29.0
